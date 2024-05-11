@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let student={
-	name:"Arpan",
+	name:"Arpan"
 	
 }
 Object.prototype.getkeys=function(){
